@@ -1,0 +1,14 @@
+pyttsx3
+speech_recognition
+wikipedia
+webbrowser
+pywhatkit
+datetime
+pyjokes
+os
+smtplib
+random
+time
+wolframalpha
+pyautogui
+request
